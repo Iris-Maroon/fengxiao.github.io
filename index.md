@@ -1,37 +1,107 @@
-## Welcome to GitHub Pages
+正式介绍下自己
 
-You can use the [editor on GitHub](https://github.com/Iris-Maroon/fengxiao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+九畹字风晓
 
-### Markdown
+也可以叫我夙沙归海
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+九畹和风晓出自辛弃疾的《蝶恋花·月下醉书》
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+九畹芳菲兰佩好。空谷无人，自怨蛾眉巧。宝瑟泠泠千古调。朱丝弦断知音少。冉冉年华吾自老。水满汀洲，何处寻芳草。唤起湘累歌未了。石龙舞罢松风晓。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+夙沙归海更简单，就是两个复姓合在了一起。
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+当初就挺喜欢这首词的，然后就选了几个唯美的词。后来去搜了搜，九确实是个姓。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+喜欢吃辣的、甜的。但没啥喜欢的食物，大部分都能吃进肚子里。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Iris-Maroon/fengxiao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+但也有很多不喜欢的，比如：柠檬、苦瓜等等，就不一一列举了。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+喜欢猫，毛茸茸的事物我也爱。
+
+
+目前玩的最久的游戏是原神，有时候也玩steam上的。最喜欢的书是《三体》。
+
+
+其实很多社交软件我都有账号，只是不玩也不发文。也不要来找我问号。我想保持神秘。
+
+
+我觉得我性格还好，但是属于慢热型，很丧，与不熟的人有距离感，所以跟我不熟的人除非有重要的事不要私信找我。私信聊多了可以做朋友，但一般不在线。不喜欢自拍，所以不要问我要照片。不喜欢我性格的人你怎么拉黑都行，但请不要骚扰我。
+
+
+熟悉的人可以叫我予惜，但要是不熟，请不要这么叫。
+
+
+想做一个温柔的人。而且我觉得我算是有礼貌的了，不会骂人挂人。
+
+
+不接受很过分的玩笑。第一次我会提醒并原谅你，（很过分很过分的我会拉黑），如果还有第二次我就举报+拉黑了。
+
+
+也不接受无端骂人，挂人。
+
+
+好了，希望你能对我有一些了解。以后希望能和谐相处。
+
+
+
+
+
+------------
+
+
+![__Iris__的练习情况](https://statcard.vercel.app/api?id=672035&dark_mode=true)
+![__Iris__的基本信息](https://luogu-card.vercel.app/about?id=672035&dark_mode=true&disable_cache=true)
+![:name](https://count.getloli.com/get/@:__Iris__?theme=rule34)
+
+________________________
+
+### 男朋友
+[![](https://cdn.luogu.com.cn/upload/usericon/707388.png)](https://www.luogu.com.cn/user/707388)
+### 友链
+[![](https://cdn.luogu.com.cn/upload/usericon/358902.png)](https://www.luogu.com.cn/user/358902)
+[![](https://cdn.luogu.com.cn/upload/usericon/399116.png)](https://www.luogu.com.cn/user/399116)
+[![](https://cdn.luogu.com.cn/upload/usericon/672980.png)](https://www.luogu.com.cn/user/672980)
+[![](https://cdn.luogu.com.cn/upload/usericon/220319.png)](https://www.luogu.com.cn/user/220319)
+
+### 团队
+[KLOI出题组](https://www.luogu.com.cn/team/41677)&&[月のベル音 出题组](https://www.luogu.com.cn/team/40301)
+
+
+### 洛谷大事记
+2022-01-23 注册账号祭
+
+2022-01-27 蓝名祭
+
+2022-02-15 贺50道题祭
+
+2022-03-07 绿名祭
+
+2022-03-12 生日祭
+
+2022-4-5 成为人win祭
+
+2022-4-09 贺100道题祭
+
+2022-4-10 人win年的第100天祭
+
+------------
+  _“愿我们在硝烟尽散的世界里重逢。”_
+
+ _“一起去啊，更远的地方！”_ 
+
+_“他跪坐其间，吻了红尘。”_
+
+_“我的骨骼说，我还是爱你。”_
+
+_“希望我们能像对方一样勇敢。”_
+
+_“人人皆以他为倚仗，又有谁会心疼他一身病骨。”_
+
+_“起风了，唯有努力生存。”_ 
